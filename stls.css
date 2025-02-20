@@ -1,0 +1,24 @@
+.buttondiv {
+  display: flex;
+  justify-content: space-around;
+}
+
+.but {
+  color: #719497;
+  background-color: #FF6324;
+}
+
+.but:hover {
+  color: #536D70;
+  background-color: #FFB899;
+}
+
+.txt {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}

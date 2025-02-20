@@ -1,0 +1,28 @@
+$font-color: #719497;
+$backgroung-color: #FF6324;
+$background-color-pointed: #FFB899;
+$font-color-pointed: #536D70;
+
+.buttondiv{
+    display: flex;
+    justify-content: space-around;      
+}
+
+.but{
+    color: $font-color;
+    background-color: $backgroung-color;
+    &:hover {
+        color:$font-color-pointed;
+        background-color: $background-color-pointed;
+    } 
+}
+
+.txt{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .heading{
+    display: flex;
+    justify-content: center;
+  }
