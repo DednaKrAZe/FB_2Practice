@@ -1,0 +1,20 @@
+{
+  "name": "second_project_front",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DednaKrAZe/FB_2Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DednaKrAZe/FB_2Practice/issues"
+  },
+  "homepage": "https://github.com/DednaKrAZe/FB_2Practice#readme",
+  "description": ""
+}
